@@ -7,4 +7,19 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+    <string name="new_menu_hint">Name</string>
+    <string name="new_menu_select">SELECT</string>
+    <string name="new_menu_upload">UPLOAD</string>
+    <string name="main_singin">SingIn</string>
+    <string name="signin_phone_number">Phone Number</string>
+    <string name="signin_0988123344">0912</string>
+    <string name="signin_singin">SingIn</string>
+    <string name="item_name_of_menu">Name Of Menu</string>
+    <string name="home_cristian">Cristian</string>
+    <string name="drawer_menu">Menu</string>
+    <string name="drawer_cart">Cart</string>
+    <string name="drawer_orders">Orders</string>
+    <string name="drawer_sing_out">Sing Out</string>
+    <string name="signin_password">Password</string>
+    <string name="signin_1234">1234</string>
 </resources>
