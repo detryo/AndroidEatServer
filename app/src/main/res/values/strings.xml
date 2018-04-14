@@ -22,4 +22,8 @@
     <string name="drawer_sing_out">Sing Out</string>
     <string name="signin_password">Password</string>
     <string name="signin_1234">1234</string>
+    <string name="food_item_name_of_food">Name of Food</string>
+    <string name="food_layout_description">Description</string>
+    <string name="food_layout_price">Price</string>
+    <string name="food_layout_discount">Discount</string>
 </resources>
