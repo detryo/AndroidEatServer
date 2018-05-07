@@ -24,6 +24,7 @@ dependencies {
     implementation 'com.android.support.constraint:constraint-layout:1.0.2'
 
     // Libraris
+    implementation 'com.jaredrummler:material-spinner:1.1.0'
     implementation 'com.firebaseui:firebase-ui-database:1.2.0'
     implementation 'com.squareup.picasso:picasso:2.5.2'
 
